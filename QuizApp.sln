@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp.Android", "QuizApp.Android\QuizApp.Android.csproj", "{1513C018-3209-4EBA-9AB0-51308D08CE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp", "QuizApp\QuizApp.csproj", "{77EBD5D3-89FD-414F-A5F7-22E9DCAE0FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1513C018-3209-4EBA-9AB0-51308D08CE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1513C018-3209-4EBA-9AB0-51308D08CE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1513C018-3209-4EBA-9AB0-51308D08CE0C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1513C018-3209-4EBA-9AB0-51308D08CE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1513C018-3209-4EBA-9AB0-51308D08CE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1513C018-3209-4EBA-9AB0-51308D08CE0C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{77EBD5D3-89FD-414F-A5F7-22E9DCAE0FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EBD5D3-89FD-414F-A5F7-22E9DCAE0FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EBD5D3-89FD-414F-A5F7-22E9DCAE0FD7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{77EBD5D3-89FD-414F-A5F7-22E9DCAE0FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EBD5D3-89FD-414F-A5F7-22E9DCAE0FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77EBD5D3-89FD-414F-A5F7-22E9DCAE0FD7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC564DE1-5B22-415E-AA2F-34415C629392}
+	EndGlobalSection
+EndGlobal
